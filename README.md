@@ -26,9 +26,13 @@ exhaustive, were obtained from the Barjeel Art Foundation [https://www.barjeelar
 
 ### Turath UNESCO
 
+This benchmark comprises images reflecting the UNESCO heritage sites in the Arab World. It has a total of 79 image-level categories with, on average, 50-500 images per category. 
+
 ## Training Networks
 
 To reproduce the results of the experiments originally conducted on the three distinct benchmark databases, please 
 follow these instructions.
 
+## Citing Turath-150K
 
+If the Turath-150K database has inspired you or facilitated your research, please consider citing the following paper:
