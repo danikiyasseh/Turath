@@ -1,4 +1,4 @@
-const path_to_model = './MobileNetV2/model.json' 
+const path_to_model = './ArtMobileNetV2/model.json' 
 
 // import {IMAGENET_CLASSES} from './imagenet_classes';
 
