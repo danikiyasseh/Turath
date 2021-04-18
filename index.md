@@ -22,7 +22,7 @@ which consist of more granular micro categories, with a total of 419. On average
 
 This benchmark comprises images reflecting art pieces produced by Arab artists. It has a total of 391 image-level
 categories with, on average, 50-500 images per category. The list of names of these artists, although far from
-exhaustive, was obtained from the Barjeel Art Foundation [https://www.barjeelartfoundation.org/].
+exhaustive, was obtained from the [Barjeel Art Foundation](https://www.barjeelartfoundation.org/).
 
 ### Turath UNESCO
 
