@@ -33,8 +33,8 @@ This benchmark comprises images reflecting the UNESCO heritage sites in the Arab
 To reproduce the results of the experiments originally conducted on the three distinct benchmark databases, please 
 follow these instructions:
 
-1. Download the Turath database found [here]()
-2. Open the Google Collab [notebook]() and follow the instructions there 
+1. Download the Turath database found [here](https://drive.google.com/drive/folders/1FvPuxtvFWXDsQ_P6zQ_dCSfXvBe2d35-?usp=sharing)
+2. Open the Google Collab [notebook](https://colab.research.google.com/drive/1HJpKJoOZ11fINv51zeWPFLm0UWxY1Hyj?usp=sharing) and follow the instructions there 
 
 ## Citing Turath-150K
 
