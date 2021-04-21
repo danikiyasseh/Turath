@@ -2,4 +2,6 @@ theme: jekyll-theme-cayman
 title: "Turath-150K"
 headline: "Turath-150K"
 description: "Turath-150K: Image Database of Arab Heritage"
+github:
+  repository_url: https://github.com/danikiyasseh/Turath/tree/gh-pages
   
