@@ -18,7 +18,7 @@ with high-level details (e.g., cities and architecture). It has a total of 12 ma
 which consist of more granular micro categories, with a total of 419. On average, each micro category contains between
 50 and 500 images.
 
-[Download Turath Standard]()
+[Download Turath Standard](https://drive.google.com/file/d/1PWE-6OlZ21XwkTrnu-LrmWU41k9nmIl4/view?usp=sharing)
 
 ### Turath Art
 
@@ -26,13 +26,13 @@ This benchmark comprises images reflecting art pieces produced by Arab artists. 
 categories with, on average, 50-500 images per category. The list of names of these artists, although far from
 exhaustive, was obtained from the [Barjeel Art Foundation](https://www.barjeelartfoundation.org/).
 
-[Download Turath Art]()
+[Download Turath Art](https://drive.google.com/file/d/1Gu87NPFgrtAi1qPP-8rgS0MPw1kTZ5fX/view?usp=sharing)
 
 ### Turath UNESCO
 
 This benchmark comprises images reflecting the UNESCO heritage sites in the Arab World. It has a total of 79 image-level categories with, on average, 50-500 images per category. 
 
-[Download Turath UNESCO]()
+[Download Turath UNESCO](https://drive.google.com/file/d/1dyPxulAjci6SJ0iO5wm7qF2Gao4ATlRc/view?usp=sharing)
 
 ## Demo
 
