@@ -15,7 +15,7 @@ next.
 
 This benchmark comprises images reflecting categories with low-level details (e.g., food and clothing) to those 
 with high-level details (e.g., cities and architecture). It has a total of 12 macro, image-level categories, each of
-which consist of more granular micro categories, with a total of Y. On average, each micro category contains between
+which consist of more granular micro categories, with a total of 269. On average, each micro category contains between
 50 and 500 images.
 
 ### Turath Art
