@@ -28,6 +28,10 @@ exhaustive, was obtained from the [Barjeel Art Foundation](https://www.barjeelar
 
 This benchmark comprises images reflecting the UNESCO heritage sites in the Arab World. It has a total of 79 image-level categories with, on average, 50-500 images per category. 
 
+## Download Database
+
+You can download the Turath database [here]() - (TODO: link to zip file on Google Drive)
+
 ## Demo
 
 We also have several trained neural networks that you can use to directly perform inference on custom images. Please visit the following pages to see a demo of a neural network trained on [Turath-Standard](https://danikiyasseh.github.io/Turath/StandardDemo/), [Turath-Art](https://danikiyasseh.github.io/Turath/ArtDemo/), or [Turath-UNESCO](https://danikiyasseh.github.io/Turath/UNESCODemo/).
