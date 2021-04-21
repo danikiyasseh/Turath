@@ -31,7 +31,10 @@ This benchmark comprises images reflecting the UNESCO heritage sites in the Arab
 ## Training Networks
 
 To reproduce the results of the experiments originally conducted on the three distinct benchmark databases, please 
-follow these instructions.
+follow these instructions:
+
+1. Download the Turath database found [here]()
+2. Open the Google Collab [notebook]() and follow the instructions there 
 
 ## Citing Turath-150K
 
